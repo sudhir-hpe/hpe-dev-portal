@@ -2,8 +2,8 @@
 title: Overview of IT service management using HPE OpsRamp Software Service Desk
 date: 2026-06-11T09:35:11.564Z
 author: Sudhir Kanigiri
-authorimage: /img/img_7780.jpeg
-thumbnailimage: /img/dev-stories/dev-story-5.jpg
+authorimage: /img/hpe-dev-logo.png
+thumbnailimage: ""
 disable: false
 tags:
   - ITSM
